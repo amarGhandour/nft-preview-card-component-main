@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: (https://github.com/amarGhandour/nft-preview-card-component-main)](https://nft-preview-card-ghandour.netlify.app/)
+- Live Site URL: (https://nft-preview-card-ghandour.netlify.app/)
 
 ## My process
 
